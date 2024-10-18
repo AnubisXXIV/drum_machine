@@ -57,7 +57,6 @@ function App() {
 
   const handleDisplay = (key) => {
     setPressedKey(key);
-    // console.log(key);
   };
 
   const playAudio = (e) => {
